@@ -1,0 +1,22 @@
+
+body .main-container .head {
+    width: 100%;
+    height: 150px;
+    background-color: grey;
+}
+
+body .main-container .middle {
+    height: 1000px;
+    width: 100%;
+    background-color: bisque;
+}
+
+body .main-container .down {
+    height: 150px;
+    width: 100%;
+    background-color: grey;
+}
+
+body .main-container .head .main-text h1 {
+    text-align: center;
+}
